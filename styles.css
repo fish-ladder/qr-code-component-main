@@ -23,7 +23,6 @@ img {
     display: flex;
     align-items: center;
     flex-direction: column;
-    /* margin: 8% auto; */
     width: 320px;
     height: 480px;
     padding-top: 16px;
@@ -39,8 +38,6 @@ img {
     text-align: center;
     padding: 0 30px;
 }
-
-
 
 h3 {
     color: var(--darkblue);
